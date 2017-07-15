@@ -1,0 +1,40 @@
+body {
+	background-color: #f5f5f5;
+	color: #333;
+	font-family: "Meiryo", "Hiragino Kaku Gothic Pro W3", "Verdana", sans-serif;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 700px;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 10px;
+}
+
+h2 {
+	font-size: 2em;
+	margin: 5px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.secure {
+	background-color: #E60012;
+	max-width: 700px;
+	margin: 10px auto;
+	color: #f5f5f5;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.secure i {
+	padding: 5px
+}
+
+.secure p, .secure h2 {
+	margin: 0;
+}
+
